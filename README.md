@@ -4,4 +4,4 @@ This RockPaperScissors project is an exercise from The Odin Project Foundations 
 
 ## Live Site
 
-You can access the live site [here]https://yanyukiai.github.io/odin-RockPaperScissors/
+You can access the live site [here](https://yanyukiai.github.io/odin-RockPaperScissors/)
